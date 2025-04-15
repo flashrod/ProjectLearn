@@ -137,7 +137,7 @@ class Navbar extends Component {
           </Link>
 
           <a
-            href="https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning"
+            href="https://github.com/flashrod/ProjectLearn/"
             target="_blank"
             className="m-github"
           >
@@ -162,7 +162,7 @@ class Navbar extends Component {
           </Link> */}
 
           <a
-            href="https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning"
+            href="https://github.com/flashrod/ProjectLearn/"
             target="_blank"
           >
             <div className="nav-component gt-container">
